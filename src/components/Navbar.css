@@ -10,9 +10,9 @@ main {
     display: flex;
     align-items: center;
     
-    background: #603bbb;
-    color: white;
-    font-family: Helvetica;
+    background: #adf5fa;
+    color: rgb(20, 20, 20);
+    font-family:Josephine,sans-serif;
     font-weight: 300;
 }
 
@@ -20,7 +20,7 @@ main {
     margin-right: auto;
     font-size: 150%;
     padding: 8px 8px;
-    color: aliceblue;
+    color: rgb(18, 18, 19);
     text-decoration: none;
 }
 .navbar__title:hover {
