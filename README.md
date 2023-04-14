@@ -4,7 +4,7 @@ The Movie Searcher is a React application that is going to search through the Mo
 
 # Demo
 
-### LINK: https://yash-movies.netlify.app/ 
+### LINK:https://shreya-movies.netlify.app/
 
 
 ### Getting started
